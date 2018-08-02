@@ -1,0 +1,2149 @@
+-------- Plugin Loading Log ------------
+
+Loading from root path: C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\
+Scanning for the following file types: *.prmp, *.prm, *.dll, *.aex, *.8bf
+
+Begin PluginNameList::AddFolder C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\Chorus1.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\Chorus2.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\Chorus6.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\DeClicker1.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\DeClicker2.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\DeClicker6.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\DeCrackler1.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\DeCrackler2.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\DeCrackler6.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\DeEsser1.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\DeEsser2.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\DeEsser6.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\DeHummer1.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\DeHummer2.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\DeHummer6.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\DeNoiser1.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\DeNoiser2.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\DeNoiser6.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\Dynamics1.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\Dynamics2.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\Dynamics6.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\EQ1.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\EQ2.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\EQ6.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\Flanger1.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\Flanger2.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\Flanger6.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\MultiBand1.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\MultiBand2.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\MultiBand6.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\Phaser1.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\Phaser2.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\Phaser6.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\PitchShifter1.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\PitchShifter2.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\PitchShifter6.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\Reverb1.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\Reverb2.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\Reverb6.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\SpectralNoiseReduction1.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\SpectralNoiseReduction2.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\SpectralNoiseReduction6.dll" 0
+Finished PluginNameList::AddFolder C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US 0
+Scanning C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US and sub-directories
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\Chorus1.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\Chorus2.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\Chorus6.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\DeClicker1.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\DeClicker2.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\DeClicker6.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\DeCrackler1.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\DeCrackler2.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\DeCrackler6.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\DeEsser1.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\DeEsser2.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\DeEsser6.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\DeHummer1.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\DeHummer2.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\DeHummer6.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\DeNoiser1.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\DeNoiser2.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\DeNoiser6.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\Dynamics1.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\Dynamics2.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\Dynamics6.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\EQ1.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\EQ2.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\EQ6.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\Flanger1.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\Flanger2.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\Flanger6.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\MultiBand1.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\MultiBand2.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\MultiBand6.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\Phaser1.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\Phaser2.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\Phaser6.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\PitchShifter1.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\PitchShifter2.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\PitchShifter6.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\Reverb1.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\Reverb2.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\Reverb6.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\SpectralNoiseReduction1.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\SpectralNoiseReduction2.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\en_US\VSTPlugins\SpectralNoiseReduction6.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading from root path: C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\
+Scanning for the following file types: *.prmp, *.prm, *.dll, *.aex, *.8bf
+
+Begin PluginNameList::AddFolder C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEAutoColor.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEAutoContrast.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEAutoLevels.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterAlphaAdjust.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterASCCDL.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterBlueScreen.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterChromaKey.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterClipName.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterColorFast.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterColorRGBCorrector.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterColorThreeWay.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterCrop.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterCrossDissolve.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterDigitalVideoLimiter.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterDipToBlack.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterDipToWhite.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterGarbageMatte.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterGarbageMatte16.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterGarbageMatte8.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterGaussianBlur.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterGraphicGroup.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterImageMatteKey.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterLightingEffect.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterLumaCorrector.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterLumaCurve.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterLumaKey.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterLumetri.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterMask.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterMorphCut.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterNonRedKey.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterProcAmp.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterRemoveMatte.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterRGBCurves.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterRGBDifferenceKey.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterSDRConform.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterShape.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterSimpleText.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterText.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterTimecode.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterTrackMatteKey.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterTransform.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterUltraKey.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterVideoLimiter.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterVRChromaLeaks.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterVRChromaticAberration.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterVRColorGradient.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterVRDenoise.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterVRDigitalGlitch.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterVRFractalNoise.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterVRGaussianBlur.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterVRGlow.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterVRGradientWipe.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterVRIrisWipe.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterVRLightLeaks.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterVRLightRays.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterVRMobius.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterVRProject2D.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterVRProjection.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterVRRandomBlocks.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterVRRotateSphere.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterVRSharpen.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterVRSphericalBlur.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEShadowHighlight.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Arithmetic.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ArriRawMXFSourceSettings.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ARRIRAWSourceSettings.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\B-C-2.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Basic_3D.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Bevel_Alpha.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Bevel_Edges.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Blend.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Block_Dissolve.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Broadcast_Colors.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Brush_Strokes.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Calculations.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\CanonRawSourceSettings.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\CellPattern.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ChangeToColor.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Change_Color.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Channel_Blur.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Channel_Mixer.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Checkerboard.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\CinemaDNGSourceSettings.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\CineonEffect.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Circle.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ColorsQuad.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Color_Balance_2.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Color_Emboss.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Color_HLS.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Color_Key.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Compound_Arith.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Compound_Blur.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Corner_Pin.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Difference.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\DirectionalBlur.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\DPXSourceSettings.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Drop_Shadow.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Dust.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Echo.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Ellipse.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Emboss.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Equalize.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ExporterAIFF.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ExporterAVI.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ExporterBMP.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ExporterDPX.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ExporterGIF.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ExporterGIFStill.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ExporterJPEG.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ExporterMP3.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ExporterMPEG2.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ExporterMPEG4.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ExporterMPEGPreview.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ExporterMXF.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ExporterP2.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ExporterPNG.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ExporterQuickTimeHost.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ExporterTarga.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ExporterTIFF.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ExporterUncompressed.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ExporterWave.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ExporterWindowsMedia.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ExporterXDCAMHD.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\EyedropperFill.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\F65SourceSettings.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Fast_Blur.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\FCPXProjectConverter.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Find_Edges.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Gradient_Wipe.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Grid.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterAIEPS.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterAIFF.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterARRIRAW.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterASND.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterAVI.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterBarsAndTone.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterBlackMatte.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterCaptioning.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterColorMatte.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterDataStream.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterDirectShow.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterDPX.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterF65.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterFastMPEG.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterFLV.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterGraphics.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterHDBarsAndTone.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterJPEG.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterLeader.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterLumetri.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterMP3.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterMPEG.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterMultiStill.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterMXF.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterPhotoshopProxy.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterPNG.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterQuickTime.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterRED.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterTarga.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterTiff.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterTransparentMatte.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterWave.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterWindowsMedia.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterXDCAMEX.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Invert.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Leave_Color.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Lens_Flare.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\libmmd.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Lightning.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Linear_Wipe.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Magnify.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Median.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Mirror.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Mosaic.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Motion.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\MPEGSourceSettings.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Noise.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\NoiseAlpha.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\NoiseHLS.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\NoiseHLSAuto.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Offset.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Opacity.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\OpenEXR.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\PaintBucket.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\PlayerMediaCore.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Posterize.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Posterize_Time.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\PremiereFiltersMetaPlugin.prmp" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\RadialShadow.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Radial_Wipe.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Ramp.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\REDSourceSettings.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\RollingShutter.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\RoughenEdges.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Set_Matte.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Sharpen.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\SMDK-VC140-x64-4_15_0.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\SolidComposite.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\SonyRawMXFSourceSettings.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Spherize.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Stabilizer.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Strobe_Light.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\svml_dispmd.dll" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Texturize.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Threshold.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Tint.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\TransitionsMetaPlugin.prmp" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\TurbulentDisplace.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Twirl.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Unsharp_Mask.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Venetian_Blinds.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Wave_Warp.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Wraptor.prm" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Write_on.aex" 0
+Finished PluginNameList::AddFolder C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common 0
+Scanning C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common and sub-directories
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEAutoColor.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEAutoContrast.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEAutoLevels.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterAlphaAdjust.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterASCCDL.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterBlueScreen.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterChromaKey.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterClipName.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterColorFast.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterColorRGBCorrector.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterColorThreeWay.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterCrop.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterCrossDissolve.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterDigitalVideoLimiter.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterDipToBlack.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterDipToWhite.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterGarbageMatte.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterGarbageMatte16.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterGarbageMatte8.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterGaussianBlur.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterGraphicGroup.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterImageMatteKey.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterLightingEffect.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterLumaCorrector.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterLumaCurve.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterLumaKey.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterLumetri.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterMask.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterMorphCut.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterNonRedKey.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterProcAmp.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterRemoveMatte.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterRGBCurves.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterRGBDifferenceKey.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterSDRConform.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterShape.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterSimpleText.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterText.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterTimecode.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterTrackMatteKey.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterTransform.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterUltraKey.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterVideoLimiter.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterVRChromaLeaks.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterVRChromaticAberration.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterVRColorGradient.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterVRDenoise.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterVRDigitalGlitch.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterVRFractalNoise.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterVRGaussianBlur.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterVRGlow.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterVRGradientWipe.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterVRIrisWipe.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterVRLightLeaks.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterVRLightRays.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterVRMobius.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterVRProject2D.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterVRProjection.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterVRRandomBlocks.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterVRRotateSphere.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterVRSharpen.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEFilterVRSphericalBlur.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\AEShadowHighlight.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Arithmetic.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ArriRawMXFSourceSettings.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ARRIRAWSourceSettings.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\B-C-2.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Basic_3D.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Bevel_Alpha.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Bevel_Edges.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Blend.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Block_Dissolve.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Broadcast_Colors.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Brush_Strokes.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Calculations.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\CanonRawSourceSettings.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\CellPattern.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ChangeToColor.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Change_Color.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Channel_Blur.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Channel_Mixer.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Checkerboard.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\CinemaDNGSourceSettings.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\CineonEffect.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Circle.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ColorsQuad.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Color_Balance_2.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Color_Emboss.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Color_HLS.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Color_Key.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Compound_Arith.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Compound_Blur.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Corner_Pin.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Difference.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\DirectionalBlur.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\DPXSourceSettings.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Drop_Shadow.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Dust.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Echo.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Ellipse.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Emboss.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Equalize.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ExporterAIFF.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ExporterAVI.prm
+The registry tells us not to cache so the plugin will be loaded from disk.
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ExporterBMP.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ExporterDPX.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ExporterGIF.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ExporterGIFStill.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ExporterJPEG.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ExporterMP3.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ExporterMPEG2.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ExporterMPEG4.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ExporterMPEGPreview.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ExporterMXF.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ExporterP2.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ExporterPNG.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ExporterTarga.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ExporterTIFF.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ExporterUncompressed.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ExporterWave.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ExporterWindowsMedia.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ExporterXDCAMHD.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\EyedropperFill.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\F65SourceSettings.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Fast_Blur.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\FCPXProjectConverter.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Find_Edges.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Gradient_Wipe.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Grid.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterAIEPS.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterAIFF.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterARRIRAW.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterASND.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterAVI.prm
+The registry tells us not to cache so the plugin will be loaded from disk.
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterBarsAndTone.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterBlackMatte.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterCaptioning.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterColorMatte.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterDataStream.prm
+The registry tells us not to cache so the plugin will be loaded from disk.
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterDirectShow.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterDPX.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterF65.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterFastMPEG.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterFLV.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterGraphics.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterHDBarsAndTone.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterJPEG.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterLeader.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterLumetri.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterMP3.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterMPEG.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterMultiStill.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterMXF.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterPhotoshopProxy.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterPNG.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterRED.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterTarga.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterTiff.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterTransparentMatte.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterWave.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterWindowsMedia.prm
+The registry tells us not to cache so the plugin will be loaded from disk.
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterXDCAMEX.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Invert.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Leave_Color.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Lens_Flare.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\libmmd.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+The plugin is marked as Ignore, so it will not be loaded.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Lightning.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Linear_Wipe.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Magnify.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Median.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Mirror.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Mosaic.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Motion.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\MPEGSourceSettings.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Noise.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\NoiseAlpha.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\NoiseHLS.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\NoiseHLSAuto.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Offset.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Opacity.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\OpenEXR.prm
+The registry tells us not to cache so the plugin will be loaded from disk.
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\PaintBucket.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\PlayerMediaCore.prm
+The registry tells us not to cache so the plugin will be loaded from disk.
+Loading from disk...
+This plugin was recognized by loader 1b5bc335-92e5-4479-bd38-d18bedec69b2.
+This plugin was recognized by loader c9936cb9-1979-48c8-bf22-dbe0ec323274.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Posterize.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Posterize_Time.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\PremiereFiltersMetaPlugin.prmp
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\RadialShadow.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Radial_Wipe.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Ramp.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\REDSourceSettings.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\RollingShutter.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\RoughenEdges.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Set_Matte.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Sharpen.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\SMDK-VC140-x64-4_15_0.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+The plugin is marked as Ignore, so it will not be loaded.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\SolidComposite.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\SonyRawMXFSourceSettings.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Spherize.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Stabilizer.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Strobe_Light.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\svml_dispmd.dll
+The registry tells us to cache so the plugin will be loaded from the cache.
+The plugin is marked as Ignore, so it will not be loaded.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Texturize.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Threshold.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Tint.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\TransitionsMetaPlugin.prmp
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\TurbulentDisplace.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Twirl.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Unsharp_Mask.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Venetian_Blinds.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Wave_Warp.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Wraptor.prm
+The registry tells us not to cache so the plugin will be loaded from disk.
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\Write_on.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ExporterQuickTimeHost.prm
+The registry tells us not to cache so the plugin will be loaded from disk.
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading C:\Program Files\Adobe\Adobe Media Encoder CC 2018\Plug-ins\Common\ImporterQuickTime.prm
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin was successfully loaded from the registry.
+
+Loading from root path: C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore
+Scanning for the following file types: *.prmp, *.prm, *.dll, *.aex, *.8bf
+
+Begin PluginNameList::AddFolder C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\Magic Bullet Colorista\Colorista-III.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\Magic Bullet Denoiser\Denoiser2-64.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\Magic Bullet LUT Buddy\LUT Buddy-64.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\MB Mojo\MBMojo.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\MBCosmo\Cosmo_x64.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\MBFilm\MBFilm.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\MBLooks\Looks3_64.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\MisFire\BasicScratch.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\MisFire\Contrast.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\MisFire\DeepScratch.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\MisFire\Displace.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\MisFire\Fading.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\MisFire\FilmDust.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\MisFire\FilmFunk.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\MisFire\FilmGrain.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\MisFire\FilmSplotch.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\MisFire\Flicker.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\MisFire\GateWeave.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\MisFire\MicroScratch.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\MisFire\MisFire.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\MisFire\Vignette.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLBleachBypass.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLColorFast.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLColorFast2.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLColorize.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLColorReplace.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLDayforNight.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLDiffusion.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLDreamGlow.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLDuochrome.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLFilmColor.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLFilmColor2.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLFilmGrain.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLFishEye.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLFrameRate.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLGradientTint.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLLightLeak.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLOldTV.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLSaturationEQ.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLSaturationModifier.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLSelectiveColor.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLSelectiveHue.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLSelectiveTint.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLSoftFocus.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLSpotlight.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLTiltShift.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLTint.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLVignette.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\RGSGrowBounds.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\Trapcode\3DStroke.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\Trapcode\Shine.aex" 0
+PluginNameList::AddFilePath - added "C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\Trapcode\Starglow.aex" 0
+Finished PluginNameList::AddFolder C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore 0
+Scanning C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore and sub-directories
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\Magic Bullet Colorista\Colorista-III.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\Magic Bullet Denoiser\Denoiser2-64.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\Magic Bullet LUT Buddy\LUT Buddy-64.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\MB Mojo\MBMojo.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\MBCosmo\Cosmo_x64.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\MBFilm\MBFilm.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\MBLooks\Looks3_64.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\MisFire\BasicScratch.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\MisFire\Contrast.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\MisFire\DeepScratch.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\MisFire\Displace.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\MisFire\Fading.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\MisFire\FilmDust.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\MisFire\FilmFunk.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\MisFire\FilmGrain.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\MisFire\FilmSplotch.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\MisFire\Flicker.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\MisFire\GateWeave.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\MisFire\MicroScratch.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\MisFire\MisFire.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\MisFire\Vignette.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLBleachBypass.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLColorFast.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLColorFast2.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLColorize.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLColorReplace.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLDayforNight.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLDiffusion.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLDreamGlow.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLDuochrome.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLFilmColor.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLFilmColor2.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLFilmGrain.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLFishEye.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLFrameRate.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLGradientTint.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLLightLeak.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLOldTV.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLSaturationEQ.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLSaturationModifier.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLSelectiveColor.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLSelectiveHue.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLSelectiveTint.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLSoftFocus.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLSpotlight.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLTiltShift.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLTint.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\NewBlueFX\Filters\NWBLVignette.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\RGSGrowBounds.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+The plugin is marked as Ignore, so it will not be loaded.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\Trapcode\3DStroke.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\Trapcode\Shine.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
+Loading C:\Program Files\Adobe\Common\Plug-ins\7.0\MediaCore\Trapcode\Starglow.aex
+The registry tells us to cache so the plugin will be loaded from the cache.
+Loading from the registry...
+The plugin has a PiPL.
+The plugin was successfully loaded from the registry.
+
