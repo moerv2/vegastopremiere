@@ -29,6 +29,7 @@ return
 MouseGetPos, x,y
 if (y > 650)
 Send {<}
+else
 return
 
 
