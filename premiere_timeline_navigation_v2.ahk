@@ -9,6 +9,19 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 #IfWinActive, ahk_class Premiere Pro
 
 
+f::
+
+MouseGetPos, x,y
+if (y > 650)
+Send {Shift}+{Home}
+sleep 20
+Send {f}
+sleep 20
+Send {.}
+return
+
+
+
 WheelUp::
 MouseGetPos, x,y
 if (y > 650)
@@ -33,11 +46,14 @@ else
 return
 
 
+
+
 /*
 Key Bindings in Premiere:
 Zoom In = 1
 Zoom Out = 2
 Move Playhead to Curser = <
+(Press alt to drag a selection box)
 */
 
 
