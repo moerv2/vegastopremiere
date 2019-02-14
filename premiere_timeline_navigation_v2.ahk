@@ -9,6 +9,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 #IfWinActive, ahk_class Premiere Pro
 
 
+/*
 f::
 
 MouseGetPos, x,y
@@ -19,6 +20,7 @@ Send {f}
 sleep 20
 Send {.}
 return
+*/
 
 
 
@@ -38,12 +40,14 @@ else
 send {WheelDown 1}
 return
 
+
+
 ~LButton::
 MouseGetPos, x,y
-if (y > 650)
+if (y > 650) and (A_Cursor = "Arrow")
 Send {<}
-else
 return
+
 
 
 
