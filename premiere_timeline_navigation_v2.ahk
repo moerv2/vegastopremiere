@@ -8,7 +8,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 #IfWinActive, ahk_class Premiere Pro
 
-
+;Repasting Audio
 /*
 f::
 
@@ -20,10 +20,11 @@ Send {f}
 sleep 20
 Send {.}
 return
+
 */
 
 
-
+;Vegaslike Scrolling
 WheelUp::
 MouseGetPos, x,y
 if (y > 650)
@@ -41,12 +42,16 @@ send {WheelDown 1}
 return
 
 
-
+; Playhead movement when Clicking anywhere
 ~LButton::
 MouseGetPos, x,y
 if (y > 650) and (A_Cursor = "Arrow")
 Send {<}
-return
+else
+if (y > 650) and (A_Cursor = "Unknown") and (A_TimeSincePriorHotkey<400) and (A_TimeSincePriorHotkey<>-1)
+Send, {Ctrl Down}{Click}{Ctrl up}
+Return
+
 
 
 
